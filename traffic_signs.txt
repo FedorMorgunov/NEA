@@ -1,0 +1,21 @@
+1 ;What does this sign mean?;Roundabout, End of controlled parking zone, Tunnel ahead, National speed limit applies;National speed limit applies
+
+2 ;What does this sign mean?;Pedestrians in the road, Zebra crossing, Children going to or from school, No pedestrians;Pedestrians in the road
+
+3 ;What does this sign mean?;Two-way traffic straight ahead, Two-way traffic crosses one-way road, Vehicles may pass either side to reach same destination, Give priority to vehicles from opposite direction;Two-way traffic straight ahead
+
+4 ;What does this sign mean?;Slippery road, No overtaking, Risk of ice, Side winds;Slippery road
+
+5 ;What does this sign mean?;End of goods vehicles restriction, No goods vehicles, No unloading of goods vehicles, Risk of lorries overturning;End of goods vehicles restriction
+
+6 ;What does this sign mean?;Turn right, Bend to right, Keep right, No right turn;Turn right
+
+7 ;What does this sign mean?;Route to be used by pedal cycles only, No cycling, With-flow pedal cycle lane, Cycle route ahead;Route to be used by pedal cycles only
+
+8 ;What does this sign mean?;No vehicles carrying explosives, Long low vehicles may be at risk of grounding, Active military training zone, Toxic gas present;No vehicles carrying explosives
+
+9 ;What does this sign mean?;No vehicles except bicycles being pushed by hand, National speed limit, No motor vehicles, Give way;No vehicles except bicycles being pushed by hand
+
+10;What does this sign mean?;Traffic merges on to main carriageway, Sharp bend to the right, Dead end ahead, Junction on a bend;Traffic merges on to main carriageway
+
+11;What does this sign mean?;Start of high-occupancy vehicle (HOV) lane, Near side taxi lane in operation, Minibus lane, School access lane;Start of high-occupancy vehicle (HOV) lane

@@ -1,0 +1,21 @@
+1 ;There is a tractor ahead of you. You wish to overtake but you are not sure if it is safe to do so. You should;follow another overtaking vehicle through, sound your horn to the slow vehicle to pull over, speed through but flash your lights to oncoming traffic, not overtake if you are in doubt;not overtake if you are in doubt
+
+2 ;On a clearway you must not stop;at any time, when it is busy, in the rush hour, during daylight hours;at any time
+
+3 ;You can park on the right-hand side of a road at night;in a one-way street, with your sidelights on, more than 10 metres (32 feet) from a junction, under a lamp-post;in a one-way street
+
+4 ;You are approaching a busy junction. There are several lanes with road markings. At the last moment you realise that you are in the wrong lane. You should;continue it that lane, force your way across, stop until the area has cleared, use clear arm signals to cut across;continue it that lane
+
+5 ;Where may you overtake on a one-way street?;Only on the left-hand side, Overtaking is not allowed, Only on the right-hand side, Either on the right or the left;Either on the right or the left
+
+6 ;When going straight ahead at a roundabout you should; indicate left before leaving the roundabout, not indicate at any time, indicate right when approaching the roundabout, indicate left when approaching the roundabout;indicate left before leaving the roundabout
+
+7 ;Which vehicle might have to use a different course to normal at roundabouts?;Sports car, Van, Estate car, Long vehicle;Long vehicle
+
+8 ;You are intending to turn right at a crossroads. An oncoming driver is also turning right. It will normally be safer to;keep the other vehicle to your RIGHT and turn behind it (offside to offside), keep the other vehicle to your LEFT and turn in front of it (nearside to nearside), carry on and turn at the next junction instead, hold back and wait for the other driver to turn first;keep the other vehicle to your RIGHT and turn behind it (offside to offside)
+
+9 ;You meet an obstruction on your side of the road. You should;carry on as you have priority, give way to oncoming traffic, wave oncoming vehicles through, accelerate to get past first;give way to oncoming traffic
+
+10;You are travelling on a well-lit road at night in a built-up area. By using dipped headlights you will be able to;see further along the road, go at a much faster speed, switch to main beam quickly, be easily seen by others;be easily seen by others
+
+11;When you are not sure that it is safe to reverse your vehicle you should;use your horn, rev your engine, get out and check, reverse slowly;get out and check
