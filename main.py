@@ -637,7 +637,7 @@ class Question:
         return self.question_data[3]
 
     # Method to compare two objects using == based on their id
-    # Used to detect duplicates when deleting duplicated objects in a list of objects
+    # Used to detect duplicates when deleting duplicate objects in a list of objects
     def __eq__(self, other):
         if isinstance(other, Question):
             if other.id == self.id:
